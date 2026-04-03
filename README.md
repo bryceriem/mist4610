@@ -22,7 +22,7 @@ The **Drones** entity represents the physical fleet, storing drone identifiers, 
 Energy and infrastructure management are handled through **Charging\_Stations** and **Station\_Sessions**. Charging stations define the available charging infrastructure and power capacity, while station sessions record each charging event, including the drone involved, the station used, session timing, and energy consumed. This structure enables energy usage analysis, operational optimization, and sustainability reporting. Finally, operational risks and exceptions are captured in the **Incidents** table, which logs safety or performance issues related to specific drones and assignments, along with incident types, severity levels, timestamps, and descriptions. Together, these interconnected entities form a normalized, scalable schema that supports traceability, operational insight, and analytics across all aspects of a drone delivery system.
 
    
-<img width="683" height="458" alt="Screenshot 2026-03-30 at 6 41 21 PM" src="https:/<img width="962" height="1157" alt="Group Project Model picture" src="https://github.com/user-attachments/assets/a52790be-6fde-48e5-9961-76eba6d918b0" />
+<img width="962" height="1157" alt="Group Project Model picture" src="https://github.com/user-attachments/assets/a52790be-6fde-48e5-9961-76eba6d918b0" />
 
 # Data Dictionary:
 <img width="662" height="518" alt="Screenshot 2026-04-02 at 6 22 03 PM" src="https://github.com/user-attachments/assets/884449ad-38c4-4131-b2bc-efef91f9e756" />
