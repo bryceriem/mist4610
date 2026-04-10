@@ -2,12 +2,12 @@
 # Team Name: 
 61608 Group 4
 # Team Members:
-1. Jacob Witucki [@JacobWitucki](https://github.com/JacobWitucki)
-2. Ashleigh Serrafin [@AshleighSerafin](https://github.com/AshleighSerafin)
-3. Bryce Riemersma [@Bryceriem](https://github.com/Bryceriem)
-4. Lily Shaw  [@Lilyshaw714](https://github.com/Lilyshaw714)
+1. Jacob Witucki [@jacobwitucki](https://github.com/jacobwitucki)
+2. Ashleigh Serrafin [@ashleighserafin](https://github.com/ashleighserafin)
+3. Bryce Riemersma [@bryceriem](https://github.com/bryceriem)
+4. Lily Shaw  [@lilyshaw714](https://github.com/lilyshaw714)
 5. Matt Miller  [@matthewroanmiller](https://github.com/matthewroanmiller)
-6. Sheuti Alladi  [@salladi13](https://github.com/alladi13)
+6. Sheuti Alladi  [@salladi13](https://github.com/salladi13)
 # Problem Description
 The problem at hand is to model and build a strong database for the general workings of a drone delivery company located in a dense urban city. The model begins with the customer entity, this is where orders start. The customer entity is connected directly with orders which then moves into the rest of the model. The rest of our model is drone specific, centered around the entity, Drone Assignemnts. Drone assignments is seen as a central piece throughout the model, this entity explains which drones are on which routes. This entity has four relationships within the model; 1-M with Deliveries, 1-M with Routes, 1-M with Drones, and 1-M with Incidents. As a group we are interested in correctly modeling the business process and answering three main questions for business executives: What needs to be delivered? How will the delivery happen? When does a drone require maintenance? How do we manage battery levels and charging station efficiency? 
 # Data Model
